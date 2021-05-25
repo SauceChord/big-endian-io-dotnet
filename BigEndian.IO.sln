@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigEndian.IOTests", "BigEndian.IOTests\BigEndian.IOTests.csproj", "{CE99EC43-AA31-4A45-A29E-699E9EE3F552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigEndian.IO", "BigEndian.IO\BigEndian.IO.csproj", "{2B6A0BDF-E4BE-4B77-8826-F260A32E443C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE99EC43-AA31-4A45-A29E-699E9EE3F552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE99EC43-AA31-4A45-A29E-699E9EE3F552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE99EC43-AA31-4A45-A29E-699E9EE3F552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE99EC43-AA31-4A45-A29E-699E9EE3F552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B6A0BDF-E4BE-4B77-8826-F260A32E443C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6A0BDF-E4BE-4B77-8826-F260A32E443C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6A0BDF-E4BE-4B77-8826-F260A32E443C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6A0BDF-E4BE-4B77-8826-F260A32E443C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E316E88-72AD-47DE-B9A5-2296EB796FF0}
+	EndGlobalSection
+EndGlobal
